@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nature"
+    android:versionCode="1"
+    android:versionName="1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INSTALL_FAILED_INSUFFICIENT_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- 电话权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+
+    <!-- 自动更新权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/music_app"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- android:name=".MainActivity" -->
+
+        <activity
+            android:name="com.wings6.nature.Welcome"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wings6.nature.MainActivity"
+            android:label="@string/title_activity_welcome" />
+        <activity android:name="com.wings6.nature.DetailActivity" />
+
+        <service android:name="com.wings6.nature.NatureService" >
+        </service>
+
+        <activity
+            android:name="com.wings6.nature.musicActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+
+        <!-- //图片欣赏 -->
+        <!-- <activity -->
+        <!-- android:screenOrientation="landscape" -->
+        <!-- android:name="com.example.nature.SecondActivity" -->
+        <!-- android:theme="@android:style/Theme.Black.NoTitleBar" -->
+        <!-- /> -->
+
+
+        <!-- <receiver android:name=".musicActivity$ProgressReceiver"> -->
+        <!-- <intent-filter> -->
+        <!-- &lt;!&ndash; 电话 广播&ndash;&gt; -->
+        <!-- <action android:name="android.intent.action.PHONE_STATE"/> -->
+        <!-- <action android:name="android.intent.action.NEW_OUTGOING_CALL" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\drawable\\audio.png",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\drawable\\audio.png"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.png",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\drawable\\seekbar_thumb.png"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.png",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\drawable\\seekbar_thumb.png"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\drawable\\audio.png",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\drawable\\audio.png"
+    }
+]

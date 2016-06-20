@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 透明度动画  根节点 alpha
+        android:fromAlpha       开始时的透明度
+        android:toAlpha         结束时的透明度
+
+动画公有的一些属性:
+    android:duration        动画执行的时间
+    android:fillAfter       动画结束后是否保存动画结束时的状态
+    android:startOffset     延时播放动画的属性
+    android:repeatCount     重复的次数
+    android:repeatMode      重复的模式
+                    restart 重新开始
+                    reverse 倒过来执行动画
+
+    android:interpolator    插补器     作用:对动画的播放进行控制 诸如:动画的加速、减速、重放、反弹.
+            @android:anim/xxxx_interpolator
+
+            accelerate_decelerate_interpolator      先加速后减速
+            accelerate_interpolator                 一路狂飙
+            decelerate_interpolator                 急刹车
+            linear_interpolator                     匀速
+            bounce_interpolator                     反弹的效果
+
+    -->
+<alpha xmlns:android="http://schemas.android.com/apk/res/android"
+       android:fromAlpha="0"
+       android:toAlpha="1"
+       android:duration="500"
+    >
+</alpha>

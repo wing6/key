@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\in_from_right.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\anims.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\anims.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\push_right_out.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\anim_alpha.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\anim_alpha.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\slide.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\anim\\push_right_in.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\push_right_in.xml"
+    }
+]

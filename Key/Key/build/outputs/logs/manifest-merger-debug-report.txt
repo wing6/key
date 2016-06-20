@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:5:5-74
+	android:targetSdkVersion
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:5:42-71
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:5:15-41
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+		INJECTED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml
+uses-permission#android.permission.INSTALL_FAILED_INSUFFICIENT_STORAGE
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:6:5-93
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:6:22-91
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:20:5-83
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:20:22-81
+application
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:23:5-78:19
+	android:label
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:27:9-40
+activity#com.wings6.nature.Welcome
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:32:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:38:27-74
+activity#com.wings6.nature.MainActivity
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:42:9-45:25
+	android:label
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:44:13-59
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:43:13-41
+activity#com.wings6.nature.DetailActivity
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:48:9-52
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:48:19-49
+service#com.wings6.nature.NatureService
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:50:9-51:22
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:50:18-47
+activity#com.wings6.nature.musicActivity
+ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:53:9-56:20
+	android:label
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from D:\project\text2\Key\Key\src\main\AndroidManifest.xml:54:13-42

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\softupdate_progress.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\music_item.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\music_item.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\content_main1.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\content_main1.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\activity_welcome.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\detail_layout.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\detail_layout.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\music_main.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\music_main.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\release\\layout\\item_sv.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\layout\\item_sv.xml"
+    }
+]

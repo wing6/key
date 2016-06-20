@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\anim_alpha.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\anims.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\anims.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\anims.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\anims.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\anim_alpha.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "F:\\100\\Key\\Key\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\anim\\slide.xml"
+    }
+]

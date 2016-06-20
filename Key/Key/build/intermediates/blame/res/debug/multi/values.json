@@ -1,0 +1,628 @@
+[
+    {
+        "outputFile": "F:\\100\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 57,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 55,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 52,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 52,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 40,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 52,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 52,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 49,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 49,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 57,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 57,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 50,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 50,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 50,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 50,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 50,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 50,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 52,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 52,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 46,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 46,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 61,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 61,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 58,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 58,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1369,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1524
+                },
+                "from": {
+                    "file": "F:\\100\\Key\\Key\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\project\\text2\\Key\\Key\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 57,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 55,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 52,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 52,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 40,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 52,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 52,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 49,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 49,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 57,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 57,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 50,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 50,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 50,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 50,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 50,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 50,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 52,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 52,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 46,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 46,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 61,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 61,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 58,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 58,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1369,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1524
+                },
+                "from": {
+                    "file": "D:\\project\\text2\\Key\\Key\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

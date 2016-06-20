@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:background="#00EEEE"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dip"
+        android:paddingRight="5dip" />
+
+
+    <!--中间图片-->
+
+    <ImageView
+        android:background="#fff"
+        android:src="@drawable/ic_launcher"
+        android:id="@+id/tvLyric"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:gravity="center_vertical"
+      />
+
+
+
+
+    <LinearLayout
+        android:id="@+id/llProgress"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvTimeElapsed"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="1"
+            android:text="00:00" />
+
+        <SeekBar
+            android:id="@+id/pbDuration"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dip"
+            android:layout_height="10dip"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="6"
+            android:maxHeight="1dip"
+            android:minHeight="1dip"
+            android:progressDrawable="@drawable/progress_style"
+            android:secondaryProgress="0"
+            android:thumb="@drawable/seekbar_thumb"
+            android:thumbOffset="0dip" />
+
+        <TextView
+            android:id="@+id/tvDuration"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="1"
+            android:text="00:00" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="2"
+        android:orientation="horizontal" >
+
+        <com.wings6.nature.CustomAudioIcon
+            android:id="@+id/btnMode"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            custom:type="mode"
+            custom:color="#66DD22" />
+
+        <com.wings6.nature.CustomAudioIcon
+            android:id="@+id/btnPrevious"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            custom:type="backward"
+            custom:color="#66DD22" />
+
+        <com.wings6.nature.CustomAudioIcon
+            android:id="@+id/btnStartStop"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            custom:type="start"
+            custom:color="#66DD22" />
+
+        <com.wings6.nature.CustomAudioIcon
+            android:id="@+id/btnNext"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            custom:type="forward"
+            custom:color="#66DD22" />
+
+        <com.wings6.nature.CustomAudioIcon
+            android:id="@+id/btnExit"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            custom:type="exit"
+            custom:color="#66DD22" />
+    </LinearLayout>
+
+</LinearLayout>
